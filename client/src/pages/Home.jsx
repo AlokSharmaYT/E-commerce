@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <header className="navbar">
-
+        
         {/* guide for the developer */}
         {/* created fields accoring to general overview of an ecommerce website */}
         <div className="logo">logo</div>
@@ -17,7 +17,7 @@ export default function Home() {
         products here
         {/* guide for the developer */}
         {/* render components from the source /components/cards */}
-        {/* <card/> <-- import card component */}
+        <Card/>
         {/* reuse the card component for rendering multiple products like phone, clothes */}
       </main>
       <footer className="footer">
