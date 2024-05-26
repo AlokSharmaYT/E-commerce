@@ -1,0 +1,19 @@
+/* adjust according to requirements */
+
+.navbar{
+    background-color: red;   
+    width: 100%;
+    height: 8vh;
+}
+
+.main{
+    background-color:chartreuse;
+    width: 100%;
+    height: 86vh;
+}
+
+.footer{
+    background-color: blue;
+    width: 100%;
+    height: 6vh;
+}
